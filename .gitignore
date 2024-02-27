@@ -1,0 +1,13 @@
+
+**.gitignore:**
+
+```plaintext
+# Arquivos e diretórios a serem ignorados pelo Git
+
+# Arquivos de byte compilados Python
+__pycache__/
+*.pyc
+
+# Ambientes virtuais Python
+venv/
+env/
